@@ -5,6 +5,7 @@
 .idea/
 .vs/
 .vscode/
+.zed
 .~lock.*
 /.ebuild.x
 /distfiles/
